@@ -1,1 +1,1 @@
-print("this is my first sscript")
+print("this is my first script")
